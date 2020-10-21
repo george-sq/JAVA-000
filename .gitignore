@@ -347,3 +347,6 @@ hs_err_pid*
 将删除 .idea/modules.xml
 将删除 .idea/vcs.xml
 将删除 JAVA-000.iml
+将删除 .idea/codeStyles/
+将删除 Week_01/Week_01.iml
+将删除 Week_01/src/test/
