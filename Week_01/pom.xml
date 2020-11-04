@@ -5,12 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.geektime</groupId>
+        <groupId>com.geektime.java-learning</groupId>
         <artifactId>JAVA-000</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.geektime.java-learning</groupId>
     <artifactId>Week_01</artifactId>
     <name>Week_01</name>
 
